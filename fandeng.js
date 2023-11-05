@@ -1,5 +1,5 @@
 // 设置 Cookie 名称，用于标识操作的网站或应用
-const cookieName = '樊登读书'
+const cookieName = '朱雀'
 
 // 设置存储签到 URL、请求头和请求主体的键名
 const signurlKey = 'senku_signurl_pandeng'
