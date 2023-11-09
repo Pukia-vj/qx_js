@@ -4,7 +4,7 @@ const cookieVal = $prefs.valueForKey(cookieKey)
 
 function signMission(code) {
   let url = {
-    url: `https://www.v2ex.com/mission/daily/redeem?once=${code}`,
+    url: `https://www.okpt.net/attendance.php`,
     method: 'GET',
     headers: { Cookie: cookieVal }
   }
