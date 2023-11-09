@@ -1,5 +1,5 @@
-const cookieName = 'm-team'
-const cookieKey = 'vvv_cookie_m-team'
+const cookieName = 'mteam'
+const cookieKey = 'vvv_cookie_mteam'
 const cookieVal = $request.headers['Cookie'] || $request.headers['cookie']
 
 if (cookieVal) {
