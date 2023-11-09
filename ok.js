@@ -2,7 +2,7 @@ const cookieName = 'okpt'
 const cookieKey = 'cookie_okpt'
 const cookieVal = $prefs.valueForKey(cookieKey)
 
-function signMission(code) {
+function sign(code) {
   let url = {
     url: `https://www.okpt.net/attendance.php`,
     method: 'GET',
