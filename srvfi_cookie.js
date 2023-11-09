@@ -1,5 +1,5 @@
-const cookieName = 'carpt'
-const cookieKey = 'vvv_cookie_carpt'
+const cookieName = 'srvfi'
+const cookieKey = 'vvv_cookie_srvfi'
 const cookieVal = $request.headers['Cookie'] || $request.headers['cookie']
 
 if (cookieVal) {
