@@ -10,10 +10,10 @@ function sign(code) {
   }
   $task.fetch(url).then((response) => {
     let data = response.body
-    if (data.indexOf('每日登录奖励已领取') >= 0) {
+    if (data.indexOf('签到成功') >= 0) {
       let title = `${cookieName}`
       let subTitle = `签到结果: 签到成功`
-      let detail = `今天已经签过了`
+      let detail = ``
       console.log(`${title}, ${subTitle}, ${detail}`)
       $notify(title, subTitle, detail)
     } else {
