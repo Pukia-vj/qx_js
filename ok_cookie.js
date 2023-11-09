@@ -1,5 +1,5 @@
-const cookieName = 'V2EX'
-const cookieKey = 'chavy_cookie_v2ex'
+const cookieName = 'okpt'
+const cookieKey = 'vvv_cookie_okpt'
 const cookieVal = $request.headers['Cookie'] || $request.headers['cookie']
 
 if (cookieVal) {
