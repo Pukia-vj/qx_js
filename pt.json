@@ -5,73 +5,73 @@
         {
             "config": "1 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/audiences.js, tag=观众签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Skicat.png, enabled=false",
         },{
-             "config": "2 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/audiences.js, tag=观众签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Skicat.png, enabled=false",
+             "config": "2 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/hdhome.js, tag=家园签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Skicat.png, enabled=false",
         },{
-             "config": "3 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/audiences.js, tag=观众签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Skicat.png, enabled=false",
+             "config": "3 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/chd.js, tag=彩虹岛登录, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Skicat.png, enabled=false",
         },{
-             "config": "4 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/audiences.js, tag=观众签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Skicat.png, enabled=false",
+             "config": "4 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/mteam.js, tag=馒头登录, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Skicat.png, enabled=false",
         },{
-             "config": "5 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/audiences.js, tag=观众签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Skicat.png, enabled=false",
+             "config": "5 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/hhanclub.js, tag=憨憨签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Skicat.png, enabled=false",
         },{
-             "config": "6 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/audiences.js, tag=观众签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Skicat.png, enabled=false",
+             "config": "6 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/keepfrds.js, tag=朋友登录, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Skicat.png, enabled=false",
         },{
-             "config": "7 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/audiences.js, tag=观众签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Skicat.png, enabled=false",
+             "config": "7 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/btschool.js, tag=学校签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Skicat.png, enabled=false",
         },{
-             "config": "8 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/audiences.js, tag=观众签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Skicat.png, enabled=false",
+             "config": "8 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/carpt.js, tag=车签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Skicat.png, enabled=false",
         },{
-             "config": "9 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/audiences.js, tag=观众签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Skicat.png, enabled=false",
+             "config": "9 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/dicmusic.js, tag=海豚登录, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Skicat.png, enabled=false",
         },{
-             "config": "10 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/audiences.js, tag=观众签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Skicat.png, enabled=false",
+             "config": "10 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/discfan.js, tag=碟粉签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Skicat.png, enabled=false",
         },{
-             "config": "11 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/audiences.js, tag=观众签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Skicat.png, enabled=false",
+             "config": "11 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/dmhy.js, tag=U2登录, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Skicat.png, enabled=false",
         },{
-             "config": "12 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/audiences.js, tag=观众签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Skicat.png, enabled=false",
+             "config": "12 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/hamsters.js, tag=蝴蝶登录, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Skicat.png, enabled=false",
         },{
-             "config": "13 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/audiences.js, tag=观众签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Skicat.png, enabled=false",
+             "config": "13 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/hdarea.js, tag=好大登录, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Skicat.png, enabled=false",
         },{
-             "config": "14 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/audiences.js, tag=观众签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Skicat.png, enabled=false",
+             "config": "14 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/hdatoms.js, tag=阿童木签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Skicat.png, enabled=false",
         },{
-             "config": "15 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/audiences.js, tag=观众签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Skicat.png, enabled=false",
+             "config": "15 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/hdcity.js, tag=城市登录, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Skicat.png, enabled=false",
         },{
-             "config": "16 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/audiences.js, tag=观众签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Skicat.png, enabled=false",
+             "config": "16 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/hddolby.js, tag=杜比签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Skicat.png, enabled=false",
         },{
-             "config": "17 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/audiences.js, tag=观众签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Skicat.png, enabled=false",
+             "config": "17 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/hdfans.js, tag=红豆饭签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Skicat.png, enabled=false",
         },{
-             "config": "18 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/audiences.js, tag=观众签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Skicat.png, enabled=false",
+             "config": "18 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/hdmayi.js, tag=蚂蚁签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Skicat.png, enabled=false",
         },{
-             "config": "19 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/audiences.js, tag=观众签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Skicat.png, enabled=false",
+             "config": "19 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/icc.js, tag=ICC签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Skicat.png, enabled=false",
         },{
-             "config": 20 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/audiences.js, tag=观众签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Skicat.png, enabled=false",
+             "config": "20 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/leaves.js, tag=红叶登录, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Skicat.png, enabled=false",
         },{
-             "config": "21 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/audiences.js, tag=观众签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Skicat.png, enabled=false",
+             "config": "21 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/nicept.js, tag=老师签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Skicat.png, enabled=false",
         },{
-             "config": "22 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/audiences.js, tag=观众签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Skicat.png, enabled=false",
+             "config": "22 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/ok.js, tag=ok签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Skicat.png, enabled=false",
         },{
-             "config": "23 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/audiences.js, tag=观众签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Skicat.png, enabled=false",
+             "config": "23 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/open.js, tag=皇后登录, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Skicat.png, enabled=false",
         },{
-             "config": "24 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/audiences.js, tag=观众签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Skicat.png, enabled=false",
+             "config": "24 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/pandapt.js, tag=熊猫签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Skicat.png, enabled=false",
         },{
-             "config": "25 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/audiences.js, tag=观众签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Skicat.png, enabled=false",
+             "config": "25 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/piggo.js, tag=猪猪签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Skicat.png, enabled=false",
         },{
-             "config": "26 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/audiences.js, tag=观众签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Skicat.png, enabled=false",
+             "config": "26 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/pthome.js, tag=铂金家签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Skicat.png, enabled=false",
         },{
-             "config": "27 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/audiences.js, tag=观众签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Skicat.png, enabled=false",
+             "config": "27 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/ptlsp.js, tag=LSP签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Skicat.png, enabled=false",
         },{
-             "config": "28 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/audiences.js, tag=观众签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Skicat.png, enabled=false",
+             "config": "28 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/ptsbao.js, tag=烧包登录, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Skicat.png, enabled=false",
         },{
-             "config": "29 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/audiences.js, tag=观众签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Skicat.png, enabled=false",
+             "config": "29 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/pttime.js, tag=PTT签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Skicat.png, enabled=false",
         },{
-             "config": "30 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/audiences.js, tag=观众签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Skicat.png, enabled=false",
+             "config": "30 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/skysnow.js, tag=天雪登录, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Skicat.png, enabled=false",
         },{
-             "config": "31 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/audiences.js, tag=观众签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Skicat.png, enabled=false",
+             "config": "31 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/soulvoice.js, tag=聆音签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Skicat.png, enabled=false",
         },{
-             "config": "32 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/audiences.js, tag=观众签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Skicat.png, enabled=false",
+             "config": "32 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/srvfi.js, tag=SRVFI签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Skicat.png, enabled=false",
         },{
-             "config": "33 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/audiences.js, tag=观众签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Skicat.png, enabled=false",
+             "config": "33 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/tjupt.js, tag=北洋园登录, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Skicat.png, enabled=false",
         },{
-             "config": "34 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/audiences.js, tag=观众签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Skicat.png, enabled=false",
+             "config": "34 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/ultrahd.js, tag=Ultrahd签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Skicat.png, enabled=false",
         },{
-             "config": "35 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/audiences.js, tag=观众签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Skicat.png, enabled=false",
+             "config": "35 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/zhuque.js, tag=朱雀登录, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Skicat.png, enabled=false",
         },{
              "config": "36 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/audiences.js, tag=观众签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Skicat.png, enabled=false",
         },{
