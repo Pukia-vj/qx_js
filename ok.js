@@ -1,5 +1,5 @@
 const cookieName = 'okpt'
-const cookieKey = 'cookie_okpt'
+const cookieKey = 'vvv_cookie_okpt'
 const cookieVal = $prefs.valueForKey(cookieKey)
 
 function sign(code) {
