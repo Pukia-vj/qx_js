@@ -1,5 +1,5 @@
 const cookieName = 'okpt'
-const cookieKey = 'chavy_cookie_okpt'
+const cookieKey = 'cookie_okpt'
 const cookieVal = $prefs.valueForKey(cookieKey)
 
 function signMission(code) {
