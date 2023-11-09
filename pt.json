@@ -73,7 +73,7 @@
         },{
              "config": "35 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/zhuque.js, tag=朱雀登录, img-url=https://raw.githubusercontent.com/Pukia-vj/icon/main/hares.ico, enabled=false",
         },{
-             "config": "36 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/hares.js, tag=白兔登录, https://raw.githubusercontent.com/Pukia-vj/icon/main/hares.ico, enabled=false",
+             "config": "36 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/hares.js, tag=白兔登录, img-url=https://raw.githubusercontent.com/Pukia-vj/icon/main/hares.ico, enabled=false",
         }
     ]
 }
