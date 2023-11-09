@@ -1,5 +1,5 @@
-const cookieName = 'discfan'
-const cookieKey = 'vvv_cookie_discfan'
+const cookieName = 'soulvoice'
+const cookieKey = 'vvv_cookie_soulvoice'
 const cookieVal = $request.headers['Cookie'] || $request.headers['cookie']
 
 if (cookieVal) {
