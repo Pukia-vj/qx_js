@@ -3,29 +3,29 @@
     "description": "尝试一下的脚本",
     "task": [
         {
-            "config": "1 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/audiences.js, tag=观众签到, img-url=https://raw.githubusercontent.com/Pukia-vj/icon/main/hares.ico, enabled=false",
+            "config": "1 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/audiences.js, tag=观众签到, img-url=https://raw.githubusercontent.com/Pukia-vj/icon/main/audiences.ico, enabled=false",
         },{
-             "config": "2 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/hdhome.js, tag=家园签到, img-url=https://raw.githubusercontent.com/Pukia-vj/icon/main/hares.ico, enabled=false",
+             "config": "2 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/hdhome.js, tag=家园签到, img-url=https://raw.githubusercontent.com/Pukia-vj/icon/main/hdhome.ico, enabled=false",
         },{
-             "config": "3 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/chd.js, tag=彩虹岛登录, img-url=https://raw.githubusercontent.com/Pukia-vj/icon/main/hares.ico, enabled=false",
+             "config": "3 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/chd.js, tag=彩虹岛登录, img-url=https://raw.githubusercontent.com/Pukia-vj/icon/main/chd.ico, enabled=false",
         },{
-             "config": "4 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/mteam.js, tag=馒头登录, img-url=https://raw.githubusercontent.com/Pukia-vj/icon/main/hares.ico, enabled=false",
+             "config": "4 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/mteam.js, tag=馒头登录, img-url=https://raw.githubusercontent.com/Pukia-vj/icon/main/mteam.ico, enabled=false",
         },{
-             "config": "5 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/hhanclub.js, tag=憨憨签到, img-url=https://raw.githubusercontent.com/Pukia-vj/icon/main/hares.ico, enabled=false",
+             "config": "5 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/hhanclub.js, tag=憨憨签到, img-url=https://raw.githubusercontent.com/Pukia-vj/icon/main/hhanclub.ico, enabled=false",
         },{
-             "config": "6 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/keepfrds.js, tag=朋友登录, img-url=https://raw.githubusercontent.com/Pukia-vj/icon/main/hares.ico, enabled=false",
+             "config": "6 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/keepfrds.js, tag=朋友登录, img-url=https://raw.githubusercontent.com/Pukia-vj/icon/main/keepfrds.ico, enabled=false",
         },{
-             "config": "7 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/btschool.js, tag=学校签到, img-url=https://raw.githubusercontent.com/Pukia-vj/icon/main/hares.ico, enabled=false",
+             "config": "7 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/btschool.js, tag=学校签到, img-url=https://raw.githubusercontent.com/Pukia-vj/icon/main/btschool.ico, enabled=false",
         },{
-             "config": "8 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/carpt.js, tag=车签到, img-url=https://raw.githubusercontent.com/Pukia-vj/icon/main/hares.ico, enabled=false",
+             "config": "8 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/carpt.js, tag=车签到, img-url=https://raw.githubusercontent.com/Pukia-vj/icon/main/carpt.ico, enabled=false",
         },{
-             "config": "9 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/dicmusic.js, tag=海豚登录, img-url=https://raw.githubusercontent.com/Pukia-vj/icon/main/hares.ico, enabled=false",
+             "config": "9 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/dicmusic.js, tag=海豚登录, img-url=https://raw.githubusercontent.com/Pukia-vj/icon/main/dicmusic.ico, enabled=false",
         },{
-             "config": "10 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/discfan.js, tag=碟粉签到, img-url=https://raw.githubusercontent.com/Pukia-vj/icon/main/hares.ico, enabled=false",
+             "config": "10 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/discfan.js, tag=碟粉签到, img-url=https://raw.githubusercontent.com/Pukia-vj/icon/main/discfan.ico, enabled=false",
         },{
-             "config": "11 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/dmhy.js, tag=U2登录, img-url=https://raw.githubusercontent.com/Pukia-vj/icon/main/hares.ico, enabled=false",
+             "config": "11 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/dmhy.js, tag=U2登录, img-url=https://raw.githubusercontent.com/Pukia-vj/icon/main/dmhy.ico, enabled=false",
         },{
-             "config": "12 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/hamsters.js, tag=蝴蝶登录, img-url=https://raw.githubusercontent.com/Pukia-vj/icon/main/hares.ico, enabled=false",
+             "config": "12 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/hamsters.js, tag=蝴蝶登录, img-url=https://raw.githubusercontent.com/Pukia-vj/icon/main/hamsters.ico, enabled=false",
         },{
              "config": "13 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/hdarea.js, tag=好大登录, img-url=https://raw.githubusercontent.com/Pukia-vj/icon/main/hares.ico, enabled=false",
         },{
