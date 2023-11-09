@@ -72,12 +72,6 @@
              "config": "34 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/ultrahd.js, tag=Ultrahd签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Skicat.png, enabled=false",
         },{
              "config": "35 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/zhuque.js, tag=朱雀登录, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Skicat.png, enabled=false",
-        },{
-             "config": "36 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/audiences.js, tag=观众签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Skicat.png, enabled=false",
-        },{
-             "config": "37 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/audiences.js, tag=观众签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Skicat.png, enabled=false",
-        },{
-             "config": "38 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/audiences.js, tag=观众签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Skicat.png, enabled=false",
-        },
+        }
     ]
 }
