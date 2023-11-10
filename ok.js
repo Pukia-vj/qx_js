@@ -13,12 +13,12 @@ function sign(code) {
     if (data.indexOf('签到成功') >= 0) {
       let title = `${cookieName}`
       let subTitle = `签到结果: 签到成功`
-      let detail = ``
+      let detail = `ok`
       console.log(`${title}, ${subTitle}, ${detail}`)
       $notify(title, subTitle, detail)
     } else {
       let title = `${cookieName}`
-      let subTitle = `签到结果: 签到失败`
+      let subTitle = `签到结果: ok签到失败`
       let detail = `详见日志`
       console.log(`签到失败: ${cookieName}, data: ${data}`)
       $notify(title, subTitle, detail)
