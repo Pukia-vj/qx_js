@@ -10,7 +10,7 @@ function sign(code) {
   }
   $task.fetch(url).then((response) => {
     let data = response.body
-    if (data.indexOf('种子') >= 0) {
+    if (data.indexOf('上传量') >= 0) {
       let title = `${cookieName}`
       let subTitle = `登录结果: 登录成功`
       let detail = `海豚`
