@@ -4,7 +4,7 @@ const cookieVal = $prefs.valueForKey(cookieKey)
 
 function sign(code) {
   let url = {
-    url: `https://audiences.me/attendance.php`,
+    url: `https://pt.btschool.club/index.php?action=addbonus`,
     method: 'GET',
     headers: { Cookie: cookieVal }
   }
