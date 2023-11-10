@@ -25,7 +25,7 @@
         },{
              "config": "11 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/dmhy.js, tag=U2登录, img-url=https://raw.githubusercontent.com/Pukia-vj/icon/main/dmhy.ico, enabled=false",
         },{
-             "config": "12 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/hamsters.js, tag=蝴蝶登录, img-url=https://raw.githubusercontent.com/Pukia-vj/icon/main/hamsters.ico, enabled=false",
+             "config": "12 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/hamsters.js, tag=蝴蝶登录, img-url=https://raw.githubusercontent.com/Pukia-vj/icon/main/hamsters.png, enabled=false",
         },{
              "config": "13 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/hdarea.js, tag=好大登录, img-url=https://raw.githubusercontent.com/Pukia-vj/icon/main/hdarea.ico, enabled=false",
         },{
