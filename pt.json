@@ -29,7 +29,7 @@
         },{
              "config": "13 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/hdarea.js, tag=好大登录, img-url=https://raw.githubusercontent.com/Pukia-vj/icon/main/hdarea.ico, enabled=false",
         },{
-             "config": "14 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/hdatoms.js, tag=阿童木签到, img-url=https://raw.githubusercontent.com/Pukia-vj/icon/main/hares.ico, enabled=false",
+             "config": "14 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/hdatmos.js, tag=阿童木签到, img-url=https://raw.githubusercontent.com/Pukia-vj/icon/main/hares.ico, enabled=false",
         },{
              "config": "15 1 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/hdcity.js, tag=城市登录, img-url=https://raw.githubusercontent.com/Pukia-vj/icon/main/hares.ico, enabled=false",
         },{
