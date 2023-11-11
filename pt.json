@@ -1,79 +1,79 @@
 {
     "name": "😏PT签到登录脚本",
-    "description": "登录和签到",
+    "description": "签到和登录",
     "task": [
         {
-            "config": "1 7 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/audiences.js, tag=观众签到, img-url=https://raw.githubusercontent.com/Pukia-vj/icon/main/audiences.ico, enabled=false",
+            "config": "1 10 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/audiences.js, tag=观众签到, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/Bahamut.png, enabled=true",
         },{
-             "config": "2 7 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/hdhome.js, tag=家园签到, img-url=https://raw.githubusercontent.com/Pukia-vj/icon/main/hdhome.ico, enabled=false",
+             "config": "2 10 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/hdhome.js, tag=家园签到, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/Bahamut.png, enabled=true",
         },{
-             "config": "3 7 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/chd.js, tag=彩虹岛登录, img-url=https://raw.githubusercontent.com/Pukia-vj/icon/main/chd.ico, enabled=false",
+             "config": "3 10 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/chd.js, tag=彩虹岛登录, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/Bahamut.png, enabled=true",
         },{
-             "config": "4 7 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/mteam.js, tag=馒头登录, img-url=https://raw.githubusercontent.com/Pukia-vj/icon/main/mteam.ico, enabled=false",
+             "config": "4 10 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/mteam.js, tag=馒头登录, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/Bahamut.png, enabled=true",
         },{
-             "config": "5 7 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/hhanclub.js, tag=憨憨签到, img-url=https://raw.githubusercontent.com/Pukia-vj/icon/main/hhanclub.ico, enabled=false",
+             "config": "5 10 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/hhanclub.js, tag=憨憨签到, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/Bahamut.png, enabled=true",
         },{
-             "config": "6 7 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/keepfrds.js, tag=朋友登录, img-url=https://raw.githubusercontent.com/Pukia-vj/icon/main/keepfrds.ico, enabled=false",
+             "config": "6 10 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/keepfrds.js, tag=朋友登录, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/Bahamut.png, enabled=true",
         },{
-             "config": "7 7 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/btschool.js, tag=学校签到, img-url=https://raw.githubusercontent.com/Pukia-vj/icon/main/btschool.ico, enabled=false",
+             "config": "7 10 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/btschool.js, tag=学校签到, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/Bahamut.png, enabled=true",
         },{
-             "config": "8 7 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/carpt.js, tag=车签到, img-url=https://raw.githubusercontent.com/Pukia-vj/icon/main/carpt.ico, enabled=false",
+             "config": "8 10 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/carpt.js, tag=车签到, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/Bahamut.png, enabled=true",
         },{
-             "config": "9 7 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/dicmusic.js, tag=海豚登录, img-url=https://raw.githubusercontent.com/Pukia-vj/icon/main/dicmusic.ico, enabled=false",
+             "config": "9 10 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/dicmusic.js, tag=海豚登录, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/Bahamut.png, enabled=true",
         },{
-             "config": "10 7 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/discfan.js, tag=碟粉签到, img-url=https://raw.githubusercontent.com/Pukia-vj/icon/main/discfan.ico, enabled=false",
+             "config": "10 10 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/discfan.js, tag=碟粉签到, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/Bahamut.png, enabled=true",
         },{
-             "config": "11 7 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/dmhy.js, tag=U2登录, img-url=https://raw.githubusercontent.com/Pukia-vj/icon/main/dmhy.ico, enabled=false",
+             "config": "11 10 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/dmhy.js, tag=U2登录, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/Bahamut.png, enabled=true",
         },{
-             "config": "12 7 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/hamsters.js, tag=蝴蝶登录, img-url=https://raw.githubusercontent.com/Pukia-vj/icon/main/hamsters.png, enabled=false",
+             "config": "12 10 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/hamsters.js, tag=蝴蝶登录, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/Bahamut.png, enabled=true",
         },{
-             "config": "13 7 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/hdarea.js, tag=好大登录, img-url=https://raw.githubusercontent.com/Pukia-vj/icon/main/hdarea.ico, enabled=false",
+             "config": "13 10 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/hdarea.js, tag=好大登录, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/Bahamut.png, enabled=true",
         },{
-             "config": "14 7 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/hdatmos.js, tag=阿童木签到, img-url=https://raw.githubusercontent.com/Pukia-vj/icon/main/hares.ico, enabled=false",
+             "config": "14 10 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/hdatmos.js, tag=阿童木签到, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/Bahamut.png, enabled=true",
         },{
-             "config": "15 7 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/hdcity.js, tag=城市登录, img-url=https://raw.githubusercontent.com/Pukia-vj/icon/main/hares.ico, enabled=false",
+             "config": "15 10 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/hdcity.js, tag=城市登录, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/Bahamut.png, enabled=true",
         },{
-             "config": "16 7 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/hddolby.js, tag=杜比签到, img-url=https://raw.githubusercontent.com/Pukia-vj/icon/main/hares.ico, enabled=false",
+             "config": "16 10 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/hddolby.js, tag=杜比签到, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/Bahamut.png, enabled=true",
         },{
-             "config": "17 7 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/hdfans.js, tag=红豆饭签到, img-url=https://raw.githubusercontent.com/Pukia-vj/icon/main/hares.ico, enabled=false",
+             "config": "17 10 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/hdfans.js, tag=红豆饭签到, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/Bahamut.png, enabled=true",
         },{
-             "config": "18 7 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/hdmayi.js, tag=蚂蚁签到, img-url=https://raw.githubusercontent.com/Pukia-vj/icon/main/hares.ico, enabled=false",
+             "config": "18 10 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/hdmayi.js, tag=蚂蚁签到, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/Bahamut.png, enabled=true",
         },{
-             "config": "19 7 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/icc.js, tag=ICC签到, img-url=https://raw.githubusercontent.com/Pukia-vj/icon/main/hares.ico, enabled=false",
+             "config": "19 10 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/icc.js, tag=ICC签到, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/Bahamut.png, enabled=true",
         },{
-             "config": "20 7 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/leaves.js, tag=红叶登录, img-url=https://raw.githubusercontent.com/Pukia-vj/icon/main/hares.ico, enabled=false",
+             "config": "20 10 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/leaves.js, tag=红叶登录, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/Bahamut.png, enabled=true",
         },{
-             "config": "21 7 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/nicept.js, tag=老师签到, img-url=https://raw.githubusercontent.com/Pukia-vj/icon/main/hares.ico, enabled=false",
+             "config": "21 10 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/nicept.js, tag=老师签到, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/Bahamut.png, enabled=true",
         },{
-             "config": "22 7 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/ok.js, tag=ok签到, img-url=https://raw.githubusercontent.com/Pukia-vj/icon/main/hares.ico, enabled=false",
+             "config": "22 10 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/ok.js, tag=ok签到, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/Bahamut.png, enabled=true",
         },{
-             "config": "23 7 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/open.js, tag=皇后登录, img-url=https://raw.githubusercontent.com/Pukia-vj/icon/main/hares.ico, enabled=false",
+             "config": "23 10 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/open.js, tag=皇后登录, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/Bahamut.png, enabled=true",
         },{
-             "config": "24 7 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/pandapt.js, tag=熊猫签到, img-url=https://raw.githubusercontent.com/Pukia-vj/icon/main/hares.ico, enabled=false",
+             "config": "24 10 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/pandapt.js, tag=熊猫签到, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/Bahamut.png, enabled=true",
         },{
-             "config": "25 7 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/piggo.js, tag=猪猪签到, img-url=https://raw.githubusercontent.com/Pukia-vj/icon/main/hares.ico, enabled=false",
+             "config": "25 10 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/piggo.js, tag=猪猪签到, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/Bahamut.png, enabled=true",
         },{
-             "config": "26 7 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/pthome.js, tag=铂金家签到, img-url=https://raw.githubusercontent.com/Pukia-vj/icon/main/hares.ico, enabled=false",
+             "config": "26 10 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/pthome.js, tag=铂金家签到, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/Bahamut.png, enabled=true",
         },{
-             "config": "27 7 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/ptlsp.js, tag=LSP签到, img-url=https://raw.githubusercontent.com/Pukia-vj/icon/main/hares.ico, enabled=false",
+             "config": "27 10 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/ptlsp.js, tag=LSP签到, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/Bahamut.png, enabled=true",
         },{
-             "config": "28 7 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/ptsbao.js, tag=烧包登录, img-url=https://raw.githubusercontent.com/Pukia-vj/icon/main/hares.ico, enabled=false",
+             "config": "28 10 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/ptsbao.js, tag=烧包登录, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/Bahamut.png, enabled=true",
         },{
-             "config": "29 7 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/pttime.js, tag=PTT签到, img-url=https://raw.githubusercontent.com/Pukia-vj/icon/main/ptt.ico, enabled=false",
+             "config": "29 10 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/pttime.js, tag=PTT签到, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/Bahamut.png, enabled=true",
         },{
-             "config": "30 7 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/skysnow.js, tag=天雪登录, img-url=https://raw.githubusercontent.com/Pukia-vj/icon/main/hares.ico, enabled=false",
+             "config": "30 10 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/skysnow.js, tag=天雪登录, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/Bahamut.png, enabled=true",
         },{
-             "config": "31 7 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/soulvoice.js, tag=聆音签到, img-url=https://raw.githubusercontent.com/Pukia-vj/icon/main/hares.ico, enabled=false",
+             "config": "31 10 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/soulvoice.js, tag=聆音签到, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/Bahamut.png, enabled=true",
         },{
-             "config": "32 7 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/srvfi.js, tag=SRVFI签到, img-url=https://raw.githubusercontent.com/Pukia-vj/icon/main/hares.ico, enabled=false",
+             "config": "32 10 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/srvfi.js, tag=SRVFI签到, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/Bahamut.png, enabled=true",
         },{
-             "config": "33 7 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/tjupt.js, tag=北洋园登录, img-url=https://raw.githubusercontent.com/Pukia-vj/icon/main/hares.ico, enabled=false",
+             "config": "33 10 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/tjupt.js, tag=北洋园登录, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/Bahamut.png, enabled=true",
         },{
-             "config": "34 7 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/ultrahd.js, tag=Ultrahd签到, img-url=https://raw.githubusercontent.com/Pukia-vj/icon/main/hares.ico, enabled=false",
+             "config": "34 10 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/ultrahd.js, tag=Ultrahd签到, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/Bahamut.png, enabled=true",
         },{
-             "config": "35 7 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/zhuque.js, tag=朱雀登录, img-url=https://raw.githubusercontent.com/Pukia-vj/icon/main/hares.ico, enabled=false",
+             "config": "35 10 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/zhuque.js, tag=朱雀登录, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/Bahamut.png, enabled=true",
         },{
-             "config": "36 7 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/hares.js, tag=白兔登录, img-url=https://raw.githubusercontent.com/Pukia-vj/icon/main/hares.png, enabled=false",
+             "config": "36 10 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/hares.js, tag=白兔登录, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/Bahamut.png, enabled=true",
         }
     ]
 }
