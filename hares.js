@@ -4,7 +4,7 @@ const cookieVal = $prefs.valueForKey(cookieKey)
 
 function sign(code) {
   let url = {
-    url: `https://hdarea.club/index.php`,
+    url: `https://club.hares.top/index.php`,
     method: 'GET',
     headers: { Cookie: cookieVal }
   }
