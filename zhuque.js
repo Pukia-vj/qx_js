@@ -9,7 +9,7 @@ function sign(code) {
     headers: { Cookie: cookieVal }
   }
   $task.fetch(url).then((response) => {
-    let data = response.body
+    let data = response.ul
     if (data.indexOf('娱乐游戏') >= 0) {
       let title = `${cookieName}`
       let subTitle = `登录结果: 登录成功`
