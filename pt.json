@@ -76,6 +76,8 @@
              "config": "36 10 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/hares.js, tag=白兔登录, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/Bahamut.png, enabled=true",
         },{
              "config": "37 10 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/totheglory.js, tag=套套哥登录, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/Bahamut.png, enabled=true",
+        },{
+             "config": "38 10 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/ourbits.js, tag=我堡登录, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/Bahamut.png, enabled=true",
         }
     ]
 }
