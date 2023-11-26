@@ -59,8 +59,6 @@
         },{
              "config": "28 10 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/ptsbao.js, tag=烧包登录, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/Bahamut.png, enabled=true",
         },{
-             "config": "29 10 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/pttime.js, tag=PTT签到, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/Bahamut.png, enabled=true",
-        },{
              "config": "30 10 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/skysnow.js, tag=天雪登录, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/Bahamut.png, enabled=true",
         },{
              "config": "31 10 * * * https://raw.githubusercontent.com/Pukia-vj/qx_js/main/soulvoice.js, tag=聆音签到, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/Bahamut.png, enabled=true",
